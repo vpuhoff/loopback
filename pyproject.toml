@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "loopback"
-version = "0.0.1"
+version = "0.0.2"
 description = "Thread manager and decorator for asynchronous background function execution."
 readme = "README.md"
 license = "MIT"
