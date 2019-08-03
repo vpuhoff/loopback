@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "loopback"
+version = "0.0.1"
+description = "Thread manager and decorator for asynchronous background function execution."
+readme = "README.md"
+license = "MIT"
+authors = ["vpuhoff <vpuhoff@live.ru>"]
+
+[tool.poetry.dependencies]
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
+
+# [tool.poetry.scripts]
+# keylocker = 'keylocker:main'
